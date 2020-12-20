@@ -4,7 +4,6 @@ Generate a URL friendly "slug" from a given string.
 
 
 ```php
-// Portable ASCII
 require __DIR__ . '/vendor/autoload.php';
 use voku\helper\ASCII;
 
